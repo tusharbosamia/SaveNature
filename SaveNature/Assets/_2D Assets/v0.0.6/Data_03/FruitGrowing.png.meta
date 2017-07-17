@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: b582e9945cd13764fb47d2188062fb90
+timeCreated: 1465833495
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FruitGrowing_0
+    21300002: FruitGrowing_1
+    21300004: FruitGrowing_2
+    21300006: FruitGrowing_3
+    21300008: FruitGrowing_4
+    21300010: FruitGrowing_5
+    21300012: FruitGrowing_6
+    21300014: FruitGrowing_7
+    21300016: FruitGrowing_8
+    21300018: FruitGrowing_9
+    21300020: FruitGrowing_10
+    21300022: FruitGrowing_11
+    21300024: FruitGrowing_12
+    21300026: FruitGrowing_13
+    21300028: FruitGrowing_14
+    21300030: FruitGrowing_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FruitGrowing_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 237
+        width: 11
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 234
+        width: 16
+        height: 13
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 231
+        width: 20
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 164
+        width: 24
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 161
+        width: 28
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 158
+        width: 31
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 155
+        width: 37
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 89
+        width: 40
+        height: 31
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 86
+        width: 44
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 84
+        width: 47
+        height: 36
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 81
+        width: 51
+        height: 39
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 54
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 13
+        width: 57
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 11
+        width: 58
+        height: 45
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FruitGrowing_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 9
+        width: 61
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

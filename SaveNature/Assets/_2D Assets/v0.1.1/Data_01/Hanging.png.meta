@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: a0bd1adb2be4b8e48bc3da3303df5480
+timeCreated: 1471163413
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hanging_0
+    21300002: Hanging_1
+    21300004: Hanging_2
+    21300006: Hanging_3
+    21300008: Hanging_4
+    21300010: Hanging_5
+    21300012: Hanging_6
+    21300014: Hanging_7
+    21300016: Hanging_8
+    21300018: Hanging_9
+    21300020: Hanging_10
+    21300022: Hanging_11
+    21300024: Hanging_12
+    21300026: Hanging_13
+    21300028: Hanging_14
+    21300030: Hanging_15
+    21300032: Hanging_16
+    21300034: Hanging_17
+    21300036: Hanging_18
+    21300038: Hanging_19
+    21300040: Hanging_20
+    21300042: Hanging_21
+    21300044: Hanging_22
+    21300046: Hanging_23
+    21300048: Hanging_24
+    21300050: Hanging_25
+    21300052: Hanging_26
+    21300054: Hanging_27
+    21300056: Hanging_28
+    21300058: Hanging_29
+    21300060: Hanging_30
+    21300062: Hanging_31
+    21300064: Hanging_32
+    21300066: Hanging_33
+    21300068: Hanging_34
+    21300070: Hanging_35
+    21300072: Hanging_36
+    21300074: Hanging_37
+    21300076: Hanging_38
+    21300078: Hanging_39
+    21300080: Hanging_40
+    21300082: Hanging_41
+    21300084: Hanging_42
+    21300086: Hanging_43
+    21300088: Hanging_44
+    21300090: Hanging_45
+    21300092: Hanging_46
+    21300094: Hanging_47
+    21300096: Hanging_48
+    21300098: Hanging_49
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hanging_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 352
+        width: 81
+        height: 32
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 357
+        width: 81
+        height: 27
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 361
+        width: 79
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 359
+        width: 80
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 317
+        width: 81
+        height: 32
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 327
+        width: 82
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 337
+        width: 79
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 329
+        width: 80
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 292
+        width: 82
+        height: 27
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 313
+        width: 79
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 297
+        width: 82
+        height: 27
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 291
+        width: 82
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 289
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 273
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 258
+        width: 64
+        height: 23
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 269
+        width: 67
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 264
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 234
+        width: 67
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 239
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 248
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 211
+        width: 64
+        height: 23
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 214
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 223
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 199
+        width: 67
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 189
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_25
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 198
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 164
+        width: 64
+        height: 23
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 158
+        width: 72
+        height: 27
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 164
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_29
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 173
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 115
+        width: 59
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 139
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 148
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 118
+        width: 62
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_34
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 112
+        width: 76
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 123
+        width: 77
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 69
+        width: 72
+        height: 27
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 86
+        width: 61
+        height: 23
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 83
+        width: 72
+        height: 18
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_39
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 92
+        width: 61
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 94
+        width: 61
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_41
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 54
+        width: 59
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 45
+        width: 59
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 60
+        width: 61
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 61
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 28
+        width: 72
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 20
+        width: 62
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 11
+        width: 61
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_48
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 28
+        width: 59
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hanging_49
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 34
+        width: 61
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
